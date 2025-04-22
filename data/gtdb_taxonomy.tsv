@@ -1,0 +1,241 @@
+user_genome	Domain	phylum	class	order	family	genus	species
+MAG021	Archaea	Halobacteriota	Methanosarcinia	Methanotrichales	Methanotrichaceae	Methanothrix	Methanothrix soehngenii
+MAG040	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanospirillaceae	UBA9949	UBA9949 sp012516785
+MAG049	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanospirillaceae	UBA9949	UBA9949 sp012516785
+MAG052	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanospirillaceae	Methanospirillum	Methanospirillum hungatei
+MAG091	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	PWHV01	
+MAG109	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanogenium	
+MAG125	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanoculleaceae	Methanoculleus	Methanoculleus sp000691865
+MAG134	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium_A	Methanobacterium_A sp002494495
+MAG149	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanospirillaceae	UBA288	
+MAG159	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium sp003491305
+MAG171	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	RumEn-M2	RumEn-M2 sp002506255
+MAG217	Archaea	Halobacteriota	Methanosarcinia	Methanotrichales	Methanotrichaceae	Methanothrix	
+MAG221	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	VadinCA11	VadinCA11 sp002505345
+MAG229	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter_C	Methanobrevibacter_C arboriphilus_A
+MAG001	Bacteria	Bacillota_C	Negativicutes	Sporomusales	Sporomusaceae	Sporomusa	
+MAG002	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Proteiniphilum	Proteiniphilum sp001768325
+MAG003	Bacteria	Bacillota_A	Clostridia	Christensenellales	DTU072	CAG-1782	
+MAG004	Bacteria	DAOUPZ01	DAOUPZ01				
+MAG005	Bacteria	Pseudomonadota	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas acidaminiphila
+MAG006	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Dysgonomonas	Dysgonomonas sp031271965
+MAG007	Bacteria	Caldisericota	Caldisericia	JAAYUI01	JAAYUI01	JAAYUI01	JAAYUI01 sp017992475
+MAG008	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium_B	
+MAG009	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp002135245
+MAG010	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	JAEWVQ01	JAEWVQ01 sp023459095
+MAG011	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	TTA-H9	TTA-H9	TTA-H9 sp002418865
+MAG012	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Macellibacteroides	Macellibacteroides fermentans
+MAG013	Bacteria	Cloacimonadota	Cloacimonadia	Cloacimonadales	Cloacimonadaceae	Syntrophosphaera	
+MAG014	Bacteria	Bacillota_C	Negativicutes	Sporomusales	Sporomusaceae	Sporomusa	
+MAG015	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	VadinHA17	SR-FBR-E99	SR-FBR-E99 sp009881065
+MAG016	Bacteria	Chloroflexota	Anaerolineae	Anaerolineales	Anaerolineaceae	Flexilinea	Flexilinea sp022837205
+MAG017	Bacteria	Verrucomicrobiota	Kiritimatiellia	LD1-PB3_B	Lenti-01	Lenti-01	Lenti-01 sp012514035
+MAG018	Bacteria	Desulfobacterota	Syntrophia	Syntrophales	Smithellaceae	UBA8904	UBA8904 sp012797505
+MAG019	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Petrimonas	Petrimonas sp002356435
+MAG020	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Petrimonas	
+MAG022	Bacteria	Patescibacteria	Microgenomatia	UBA1400	PJMF01	JAAZKO01	JAAZKO01 sp017992725
+MAG023	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Acutalibacteraceae	DTU089	
+MAG024	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	DMER64	DMER64 sp002305545
+MAG025	Bacteria	Bacillota_A	Clostridia	Oscillospirales	Butyricicoccaceae	SCN-57-10	
+MAG026	Bacteria	Bacillota_C	Negativicutes	Sporomusales	Sporomusaceae	Sporomusa	Sporomusa sphaeroides
+MAG027	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	Paraclostridium dentum
+MAG028	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Rectinemataceae	Rectinema	Rectinema sp003452735
+MAG029	Bacteria	Bacillota_C	Negativicutes	Sporomusales	Sporomusaceae	Sporomusa	
+MAG030	Bacteria	Bacillota_A	Clostridia	Tissierellales	Sedimentibacteraceae	Sedimentibacter	
+MAG031	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	UBA1413	UBA1413 sp002304925
+MAG032	Bacteria	Armatimonadota	UBA5829	DSUL01	DSUL01	JAGVUD01	JAGVUD01 sp019136435
+MAG033	Bacteria	Patescibacteria	WWE3	UBA101185	UBA10185	JAAZNV01	
+MAG034	Bacteria	Cloacimonadota	Cloacimonadia	Cloacimonadales	Cloacimonadaceae	Cloacimonas	Cloacimonas acidaminivorans
+MAG035	Bacteria	Actinomycetota	Thermoleophilia	UBA2241	UBA2241	CAIXSE01	CAIXSE01 sp012719015
+MAG036	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	UBA1422	UBA1422 sp002304835
+MAG037	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-917		
+MAG038	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Azospira	Azospira oryzae
+MAG039	Bacteria	Bacillota_C	Negativicutes	Sporomusales	Sporomusaceae	Sporomusa	
+MAG041	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Comamonas	Comamonas jiangduensis
+MAG042	Bacteria	Desulfobacterota_G	Syntrophorhabdia	Syntrophorhabdales	Syntrophorhabdaceae	MWEV01	MWEV01 sp002071245
+MAG043	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Syner-03	Syner-03 sp002306075
+MAG044	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Rectinemataceae	Rectinema	Rectinema sp012516755
+MAG045	Bacteria	Bacillota_I	Bacilli_A	ML615J-28	CAG-698	JAEYQM01	
+MAG046	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales			
+MAG047	Bacteria	Bacillota_B	Syntrophomonadia	Syntrophomonadales	Syntrophomonadaceae	PHAA01	PHAA01 sp022706565
+MAG048	Bacteria	Desulfobacterota_G	Syntrophorhabdia	Syntrophorhabdales	Syntrophorhabdaceae	Syntrophorhabdus	Syntrophorhabdus sp002067585
+MAG050	Bacteria	Bacillota_E	DTU015	DTU015	DTU015	UBA3907	UBA3907 sp018052475
+MAG051	Bacteria	Marinisomatota	UBA2242	UBA2242	UBA2242	JAGNGI01	JAGNGI01 sp018002295
+MAG053	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Seramator	Seramator thermalis
+MAG054	Bacteria	Cloacimonadota	Cloacimonadia	Cloacimonadales	Cloacimonadaceae	Syntrophosphaera	Syntrophosphaera sp012516855
+MAG055	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Dethiosulfovibrio	Dethiosulfovibrio russensis
+MAG056	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Vallitaleaceae	UBA1351	UBA1351 sp002342805
+MAG057	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Sulfurimonadaceae	Sulfurimonas	
+MAG058	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Paucidesulfovibrio	Paucidesulfovibrio sp028708865
+MAG059	Bacteria	Bacillota	Bacilli	Bacillales_B	DSM-18226	Bacillus_BD	
+MAG060	Bacteria	Synergistota	Synergistia	Synergistales	Aminithiophilaceae		
+MAG061	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	Mariniphaga	
+MAG062	Bacteria	Marinisomatota	AB16	AB16	46-47	M50B103	
+MAG063	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	ML635J-15	JAQIBY01	
+MAG064	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	M55B122	
+MAG065	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae		
+MAG066	Bacteria	Synergistota	Synergistia	Synergistales	JAFGMB01		
+MAG067	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Alkalibacteraceae		
+MAG068	Bacteria	Actinomycetota	Coriobacteriia	Anaerosomatales	Anaerosomataceae	Anaerosoma	Anaerosoma tenue
+MAG069	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinilabiliaceae	Marinilabilia	
+MAG070	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Vibrionaceae	Vibrio	Vibrio toranzoniae
+MAG071	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	JAAYHT01	
+MAG072	Bacteria	Spirochaetota	Spirochaetia	JABMQR01	JABMQR01		
+MAG073	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Malaciobacter	Malaciobacter marinus
+MAG074	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfomicrobiaceae		
+MAG075	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	JAAYHV01	
+MAG076	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	Izemoplasmataceae	JAIPGF01	
+MAG077	Bacteria	Bacillota_A	Clostridia	Christensenellales	SZUA-584	JAQTSP01	
+MAG078	Bacteria	Bacillota_A	Clostridia	JAAYHZ01			
+MAG079	Bacteria	Desulfobacterota	Desulfuromonadia	Desulfuromonadales	Desulfuromonadaceae	JAIVHC01	
+MAG080	Bacteria	Bacillota_B	Syntrophomonadia	Syntrophomonadales	Syntrophomonadaceae	JAAYRQ01	
+MAG081	Bacteria	Bacillota_A	Clostridia	Tissierellales	Tissierellaceae	CABMKH01	
+MAG082	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	Zrk29	
+MAG083	Bacteria	Synergistota	Synergistia	Synergistales	JAFGMB01		
+MAG084	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	Zrk29	
+MAG085	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinilabiliaceae	Marinilabilia	
+MAG086	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	Zrk29	Zrk29 sp021736305
+MAG087	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	Zrk29	
+MAG088	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	Zrk29	
+MAG089	Bacteria	Spirochaetota	Spirochaetia	JABMQR01	JABMQR01		
+MAG090	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinilabiliaceae	Marinilabilia	Marinilabilia sp002411085
+MAG092	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	Zrk29	
+MAG093	Bacteria	Bacillota	Bacilli	Bacillales_D	Amphibacillaceae	Halolactibacillus	
+MAG094	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	JAGONC01		
+MAG095	Bacteria	Bacillota_F	Halanaerobiia	Halanaerobiales	Halanaerobiaceae	Halanaerobium	
+MAG096	Bacteria	Bacillota_A	Clostridia	Tissierellales	Dethiosulfatibacteraceae	UBA8670	UBA8670 sp003539375
+MAG097	Bacteria	Patescibacteria	Dojkabacteria	SC72	SC72	WOZL01	
+MAG098	Bacteria	Bacillota_F	Halanaerobiia	Halanaerobiales	Halanaerobiaceae	Halanaerobium	
+MAG099	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	UBA1877	UBA1877	
+MAG100	Bacteria	Bacillota_A	Clostridia	Tissierellales	Tissierellaceae	JARICQ01	
+MAG101	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Garciellaceae	DUPX01	
+MAG102	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Garciellaceae	DUPX01	
+MAG103	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinilabiliaceae	Marinilabilia	Marinilabilia salmonicolor
+MAG104	Bacteria	Spirochaetota	Spirochaetia	PWKH01	PWKH01	JAIPFS01	
+MAG105	Bacteria	Synergistota	Synergistia	Synergistales	Thermovirgaceae	UBA1876	
+MAG106	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfobaculum	
+MAG107	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	BM714	BM714	
+MAG108	Bacteria	Desulfobacterota	Desulfuromonadia	Desulfuromonadales	Desulfuromonadaceae	JAIVHC01	
+MAG110	Bacteria	Bacillota	Bacilli	Bacillales_D	Amphibacillaceae	Halolactibacillus	
+MAG111	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Alkalibacteraceae	Alkalibaculum	
+MAG112	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	SKHV01	
+MAG113	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	Izemoplasmataceae	UBA3566	
+MAG114	Bacteria	Bacillota_A	Clostridia	Tissierellales	Tissierellaceae	JANKMX01	
+MAG115	Bacteria	Bacillota_F	Halanaerobiia	Halanaerobiales	Halanaerobiaceae	Halanaerobium	
+MAG116	Bacteria	Bacillota_A	Clostridia	Tissierellales	Sedimentibacteraceae	Sedimentibacter	
+MAG117	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Bact-08	
+MAG118	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Bact-08	
+MAG119	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	Sunxiuqinia	
+MAG120	Bacteria	Cloacimonadota	Cloacimonadia	Cloacimonadales	Cloacimonadaceae	UBA5456	
+MAG121	Bacteria	Marinisomatota	AB16	AB16	46-47	M50B103	
+MAG122	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	Zrk29	
+MAG123	Bacteria	Bacillota_A	Clostridia	Tissierellales	Dethiosulfatibacteraceae	UBA8670	
+MAG124	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	SABI01	
+MAG126	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Sulfurovaceae	Sulfurovum	
+MAG127	Bacteria	Desulfobacterota	Desulfuromonadia	Desulfuromonadales	Geoalkalibacteraceae	Geoalkalibacter_A	
+MAG128	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae		
+MAG129	Bacteria	Bacillota_A	Clostridia	Christensenellales	UBA1242	STF1-184	
+MAG130	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prolixibacteraceae	Tangfeifania	Tangfeifania diversioriginum
+MAG131	Bacteria	Bacillota_I	Bacilli_A	Izemoplasmatales	UBA5603	M55B122	
+MAG132	Bacteria	Bacillota_A	Clostridia	Tissierellales	Tissierellaceae		
+MAG133	Bacteria	Bacillota_A	Clostridia	Christensenellales	UBA1242	STF1-184	
+MAG135	Bacteria	Synergistota	Synergistia	Synergistales	Dethiosulfovibrionaceae	Pyramidobacter	Pyramidobacter piscolens_A
+MAG136	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides intestinalis_A
+MAG137	Bacteria	Desulfobacterota	Desulfuromonadia	Geobacterales	Geobacteraceae	Geobacter	Geobacter anodireducens
+MAG138	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	RUG100	
+MAG139	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Catenibacillus	Catenibacillus sp902363555
+MAG140	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-138		
+MAG141	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Teretinema	Teretinema sp004294945
+MAG142	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia coccoides
+MAG143	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	DMER64	DMER64 sp002408205
+MAG144	Bacteria	Bacillota_B	Syntrophomonadia	Syntrophomonadales	Syntrophomonadaceae	UBA5314	UBA5314 sp002410325
+MAG145	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Frisingicoccus	Frisingicoccus sp009929615
+MAG146	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+MAG147	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Syner-03	Syner-03 sp002316795
+MAG148	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Lentimicrobiaceae	Lentimicrobium	
+MAG150	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	DMER64	DMER64 sp002071385
+MAG151	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Eubacteriaceae	UBA7485	UBA7485 sp937872065
+MAG152	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	WRLA01	WRLA01	
+MAG153	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_I	
+MAG154	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium_O	Eubacterium_O aggregans
+MAG155	Bacteria	Synergistota	Synergistia	Synergistales	Aminobacteriaceae	JAAYLU01	JAAYLU01 sp018436785
+MAG156	Bacteria	Bacillota_C	Negativicutes	Acidaminococcales	Acidaminococcaceae	JAAYIB01	JAAYIB01 sp012744295
+MAG157	Bacteria	Spirochaetota	Spirochaetia	Sphaerochaetales	Sphaerochaetaceae	Sphaerochaeta	Sphaerochaeta sp001604325
+MAG158	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	UBA1422	UBA1422 sp012515135
+MAG160	Bacteria	Cloacimonadota	Cloacimonadia	Cloacimonadales	Cloacimonadaceae	UBA5456	UBA5456 sp018433885
+MAG161	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_I	Enterococcus_I lemanii
+MAG162	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-138		
+MAG163	Bacteria	Desulfobacterota	Desulfuromonadia	Desulfuromonadales	Trichloromonadaceae	Trichloromonas	
+MAG164	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Syner-03	
+MAG165	Bacteria	Bacillota_B	Syntrophomonadia	Syntrophomonadales	Syntrophomonadaceae	Syntrophomonas_B	
+MAG166	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	P3	UBA10566	UBA10566 sp023415495
+MAG167	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus russellii
+MAG168	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Paludibacteraceae	UPXZ01	
+MAG169	Bacteria	Synergistota	Synergistia	Synergistales	Aminobacteriaceae	Aminivibrio	
+MAG170	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Syner-03	
+MAG172	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	Bact-08	Bact-08 sp018053445
+MAG173	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Flaviflexus	Flaviflexus salsibiostraticola
+MAG174	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Stutzerimonas	Stutzerimonas kunmingensis
+MAG175	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Rhodococcus	Rhodococcus fascians
+MAG176	Bacteria	Bacillota	Bacilli	Bacillales_B	DSM-18226	Bacillus_BU	
+MAG177	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium variabile
+MAG178	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ectorhizobium	Ectorhizobium borbori
+MAG179	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Natronincolaceae	Clostridium_W	Clostridium_W formicaceticum
+MAG180	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Eubacteriaceae	Acetobacterium	
+MAG181	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+MAG182	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	
+MAG183	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	
+MAG184	Bacteria	Bacillota	Bacilli	Bacillales_B	DSM-18226	Bacillus_BD	
+MAG185	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Eubacteriaceae	Acetobacterium	
+MAG186	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Mobilitalea	
+MAG187	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp029779645
+MAG188	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Filifactoraceae	Acetoanaerobium	Acetoanaerobium noterae
+MAG189	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Hydrogenophaga	Hydrogenophaga electricum
+MAG190	Bacteria	Bacillota_A	Clostridia	Clostridiales	Clostridiaceae	Proteiniclasticum	Proteiniclasticum sp003514505
+MAG191	Bacteria	Bacillota_A	Clostridia	Christensenellales	Aristaeellaceae	JAEZHK01	JAEZHK01 sp023411175
+MAG192	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Lachnospiraceae	Mobilitalea	
+MAG193	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Terrisporobacter	
+MAG194	Bacteria	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Microtrichaceae	AWTP1-35	
+MAG195	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp900552405
+MAG196	Bacteria	Bacillota_A	Clostridia	Christensenellales	Aristaeellaceae	Limiplasma	Limiplasma sp023411375
+MAG197	Bacteria	Synergistota	Synergistia	Synergistales	Aminobacteriaceae	CALFXN01	CALFXN01 sp937870605
+MAG198	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_C	Enterococcus_C asini
+MAG199	Bacteria	Bacillota_A	Clostridia	Tissierellales	Peptoniphilaceae		
+MAG200	Bacteria	Bacillota_I	Bacilli_A	Acholeplasmatales	UBA5453	UBA5409	UBA5409 sp002410615
+MAG201	Bacteria	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	Brooklawnia	Brooklawnia sp937867175
+MAG202	Bacteria	Bacillota_A	Clostridia	Christensenellales	DTU072	CAG-1782	
+MAG203	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-138		
+MAG204	Bacteria	Bacillota_I	Bacilli_A	ML615J-28	CAG-698	DUNF01	DUNF01 sp012839485
+MAG205	Bacteria	Synergistota	Synergistia	Synergistales	Aminobacteriaceae	Aminivibrio	Aminivibrio sp018057035
+MAG206	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-314	JAQUSX01	
+MAG207	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	JAISUH01	
+MAG208	Bacteria	Actinomycetota	Coriobacteriia	Anaerosomatales	Anaerosomataceae	Anaerosoma	
+MAG209	Bacteria	Bacillota_I	Bacilli_A	RFN20	UBA1709	JAQUUH01	
+MAG210	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-138	Phil1	Phil1 sp023393045
+MAG211	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Eubacteriaceae	Acetobacterium	Acetobacterium dehalogenans
+MAG212	Bacteria	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Microtrichaceae	Microthrix	Microthrix subdominans
+MAG213	Bacteria	Bacillota_A	Clostridia	Christensenellales	CAG-138	UBA7707	UBA7707 sp002482435
+MAG214	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter kobei
+MAG215	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	
+MAG216	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Dietzia	Dietzia cercidiphylli
+MAG218	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Advenella_A	
+MAG219	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Limisphaerales	UBA1412	UBA1412	
+MAG220	Bacteria	Bacillota_I	Bacilli_A	RFN20	CAG-826	UBA1424	
+MAG222	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tenuifilaceae	UBA5206	UBA5206 sp002412705
+MAG223	Bacteria	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	Teretinema	
+MAG224	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio desulfuricans_E
+MAG225	Bacteria	Bacillota_A	Clostridia	Christensenellales	DTU072	CAG-1782	
+MAG226	Bacteria	Bacillota	Bacilli	Bacillales_D	Amphibacillaceae	Amphibacillus	
+MAG227	Bacteria	Bacillota_A	Clostridia	Peptostreptococcales	Natronincolaceae	Anaerovirgula	
+MAG228	Bacteria	Bacillota_A	Clostridia	Tissierellales	Tissierellaceae		
+MAG230	Bacteria	Bacillota_A	Clostridia	Eubacteriales	Eubacteriaceae	Acetobacterium	
+MAG231	Bacteria	Bacillota_B	Desulfotomaculia	Desulfotomaculales	Desulfohalotomaculaceae		
+MAG232	Bacteria	Bacillota_A	Clostridia	Tissierellales	Tissierellaceae	JARICQ01	
+MAG233	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Alcaligenes	Alcaligenes faecalis_D
+MAG234	Bacteria	Bacillota_B	Desulfotomaculia	Desulfotomaculales	Desulfohalotomaculaceae		
+MAG235	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Dietzia	Dietzia maris
+MAG236	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	UBA2632	
+MAG237	Bacteria	Bacillota_B	Desulfitobacteriia	Desulfitobacteriales	Desulfitobacteriaceae	Desulfosporosinus	
+MAG238	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus versutus
+MAG239	Bacteria	Bacillota_B	Desulfotomaculia	Desulfotomaculales	Desulfohalotomaculaceae		
+MAG240	Bacteria	Bacillota_A	Clostridia	Lachnospirales	Vallitaleaceae	Vallitalea	Vallitalea guaymasensis
